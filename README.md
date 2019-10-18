@@ -1,5 +1,9 @@
 # Project_Tic_Tac_Toe
 
+## Pair-Programming:
+
+Tsiory_prdx & Francois279
+
 ## Description:
 
 2 players play by using X or O
